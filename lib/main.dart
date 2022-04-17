@@ -5,19 +5,6 @@ void main() {
   runApp(const MyApp());
 }
 
-// class MyApp extends StatelessWidget {
-//   const MyApp({Key? key}) : super(key: key);
-//
-//   @override
-//   Widget build(BuildContext context) {
-//     var duration = Duration(seconds: 2);
-//     return const MaterialApp(
-//
-//       home: HomePage(),
-//       debugShowCheckedModeBanner: false,
-//     );
-//   }
-// }
 bool isTrue = true;
 
 class MyApp extends StatefulWidget {
